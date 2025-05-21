@@ -68,10 +68,11 @@ img {
     display: block;
 }
 .box-left{
-    width: 30%;
+    width: 50%;
     padding: 10px;
     text-align: center;
     box-sizing: border-box;
+
 }
 .box-right{
     width: 80%;
@@ -84,7 +85,9 @@ img {
 }
 .header {
     text-align: center;
-}
+    /* margin-top: 50px;
+    font-size: 36px;
+} */
 /* 全てに１０PX */
 .m-10 {
     margin: 10px;
